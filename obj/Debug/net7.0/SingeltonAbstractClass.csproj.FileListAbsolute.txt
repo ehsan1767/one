@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\bin\Debug\net7.0\SingeltonAbstractClass.exe
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\bin\Debug\net7.0\SingeltonAbstractClass.deps.json
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\bin\Debug\net7.0\SingeltonAbstractClass.runtimeconfig.json
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\bin\Debug\net7.0\SingeltonAbstractClass.dll
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\bin\Debug\net7.0\SingeltonAbstractClass.pdb
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.AssemblyInfo.cs
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.dll
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\refint\SingeltonAbstractClass.dll
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.pdb
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\SingeltonAbstractClass.genruntimeconfig.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonAbstractClass\obj\Debug\net7.0\ref\SingeltonAbstractClass.dll
